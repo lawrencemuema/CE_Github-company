@@ -1,0 +1,3 @@
+developers: bolarinwa, sandrine,rishard
+designers: okiemute, clarence, rafique
+managers: vivianne, kepha
